@@ -1,1 +1,1 @@
-sample website
+sample website with only using html
